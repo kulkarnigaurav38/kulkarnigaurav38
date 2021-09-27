@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack Web Development
 - 🌱 I’m currently learning React.js, Node.js
 - 💞️ I’m looking to collaborate on applications and apps using React.js
-- 📫 How to reach me : Twitter DM - [@gauravkul38](https://twitter.com/gauravkul38)
+- 📫 How to reach me : Twitter DM - [@gauravkul38](https://twitter.com/gauravkulk38)
 
 <!---
 kulkarnigaurav38/kulkarnigaurav38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
