@@ -1,8 +1,5 @@
-- 👋 Hi, I’m [@kulkarnigaurav38](https://github.com/kulkarnigaurav38)
-- 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning React.js, Node.js and have experience with Java Spring Boot
-- 💞️ I’m looking to collaborate on applications which leverage AI
-- 📫 How to reach me : Twitter DM - [@gauravkulk38](https://twitter.com/gauravkulk38)
+- 👋 Hi, hier ist meine Portfolio Webseite: https://kulkarnigaurav38.github.io/
+
 
 <!---
 kulkarnigaurav38/kulkarnigaurav38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
